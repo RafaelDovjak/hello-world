@@ -1,3 +1,3 @@
 # hello-world
->> why
-The computer did it.
+Hello World =)
+
